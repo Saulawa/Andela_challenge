@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Andela_challenge</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="my_name">Anas Abubakar</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="email_anas_saulawa_gmail_com">Email:anas.saulawa@gmail.com</string>
+    <string name="phone_number_08061356134">Phone number:08061356134</string>
+    <string name="slack_username_saulawa">slack username:@saulawa</string>
+</resources>
